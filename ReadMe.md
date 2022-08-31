@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Web Developer and more...
 
-I'm a Software Engineer, Frontend Engineer, Backend(C#, asp.net core) Developer who is currently a student at Altchool Africa. I'm passionate about leadership, sharing knowledge, growth in whatever sphere, building and growing tech communities and others. I build useful [open-source projects](https://github.com/Phusse)..
+I'm a Software Engineer, Frontend Engineer, Backend(C#, asp.net core) Developer who is currently a student at Altchool Africa. I'm passionate about leadership, sharing knowledge, growth in whatever sphere, building and growing tech communities and others. I build useful [open-source projects](https://github.com/Phusse).
 
 **Here's a quick summary about me**:
 
@@ -14,7 +14,7 @@ I'm a Software Engineer, Frontend Engineer, Backend(C#, asp.net core) Developer 
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript, Reactjs, Nextjs etc.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or Backend Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Frontend Engineer, or Backend Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing dubemmegbo@gmail.com.
 
 ### Skills
