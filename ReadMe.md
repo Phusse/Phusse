@@ -15,7 +15,7 @@ I'm a Software Engineer, Frontend Engineer, Backend(C#, asp.net core) Developer 
 - 🌱 I’m currently learning JavaScript, Reactjs, Nextjs etc.
 - 😊 I’m looking to collaborate on open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or Backend Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing dubemmegbo@gmail.com.
+- 📫 You can [view my resume](https://dubemegbo.netlify.app/) and contact me by emailing dubemmegbo@gmail.com.
 
 ### Skills
 
