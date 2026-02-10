@@ -14,7 +14,7 @@ I'm a Software Engineer, Frontend Engineer, Backend(C#, asp.net core) Developer 
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript, Reactjs, VueJs etc.
 - 😊 I’m looking to collaborate on open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Frontend Engineer, or Backend Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Frontend Engineer, or Backend Engineer.
 - 📫 You can [view my resume](https://dubemegbo.netlify.app/) and contact me by emailing dubemmegbo@gmail.com.
 
 ### Skills
